@@ -19,6 +19,16 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
 body {
   font-family: "Helvetica", sans-serif;
 }
+header {
+  background-image: url(/lab-css-recipes-clones/apple-pie/images/apple-pie.jpg);
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  /*contain
+  cover
+  */
+  background-size: cover;
+}
 
 /* STYLES */
 /* Write your CSS below */
